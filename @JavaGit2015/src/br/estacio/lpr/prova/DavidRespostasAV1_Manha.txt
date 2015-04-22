@@ -1,0 +1,18 @@
+1)
+--a)O tipo de dado char serve para armazenar um caractere (o char vem de character, que é caractere em inglês),
+e por essa função simples tem o tamanho do tipo short.
+
+--b)Indica que não há um tipo de retorno para o método(retorno vazio).
+
+--c)A função main é uma função estática que indica onde o seu programa iniciará. Sem um main não há possibilidade 
+de executar uma aplicação Java. A função main tem a seguinte assinatura: public static void main (String [] args) {...} 
+Este método é adicionado a classe principal da aplicação e se encarrega de inicializar todo o ambiente para a execução.
+
+--d)New é utilizado para criar uma nova instância de uma determinada classe
+
+2) b) 2
+3) b) 4
+4) a) Java Virtual Machine
+5) b) Bytecode
+
+O restante das questões estão no arquivo Questoes.java.
