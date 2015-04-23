@@ -1,0 +1,26 @@
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <title>Passagem de valores a aplicacao servidora </title></head>
+    <body>
+        <form action="http://localhost:8080/cap14/Pessoa"> 
+            <b>Nome:</b>
+            <input type="text" size="25" name="nome"><br><br>
+            <b>Sexo:</b>
+            <input type="radio" name="sexo" value="M">Masculino
+            <input type="radio" name="sexo" value="F">Feminino<br><br>
+            <b>Profissão:</b>
+            <select name="profissao">
+                <option value="Analista">Analista de Sistemas</option>
+                <option value="Professor">Professor</option>
+                <option value="Programador">Programador</option>
+            </select><br><br>
+            <b>Áreas de Interesse:</b><br>
+            <input type="checkbox" name="banco" value="Banco de Dados">Banco de Dados<br>
+            <input type="checkbox" name="programacao" value="Programacao">Programação de computadores<br>
+            <input type="checkbox" name="redes" value="Redes de Computadores">Redes de Computadores<br><br>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </form>
+    </body>
+</html>
+
