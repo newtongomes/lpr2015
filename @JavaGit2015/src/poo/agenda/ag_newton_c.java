@@ -1,4 +1,4 @@
-package br.estacio.poo.agenda;
+package poo.agenda;
 
 public class ag_newton_c 
 {

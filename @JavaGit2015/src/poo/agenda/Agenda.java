@@ -1,4 +1,4 @@
-package br.estacio.poo.agenda;
+package poo.agenda;
 
 import java.util.Scanner;
 
