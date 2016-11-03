@@ -1,7 +1,0 @@
-/* AUTOMATICALLY GENERATED ON Fri Apr 02 20:19:26 BRT 2010*/
-/* DO NOT EDIT */
-
-grant codeBase "file:/c:/minhaapplet/" {
-  permission java.io.FilePermission "c:/arq.txt", "read, write, delete, execute";
-};
-
